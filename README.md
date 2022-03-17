@@ -1,3 +1,14 @@
+# Local Development Environment Setup
+
+Run git clone to clone this repository.
+
+Install Node.js from https://nodejs.org.
+
+Run npm install.
+
+Run npm start to start a local web server to support development.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
