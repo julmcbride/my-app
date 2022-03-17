@@ -76,7 +76,7 @@ const Select = styled.select`
           <>
             {item.parent === null ? (
               <>
-              <option value={item.name} key={item.id.toString}>{item.name}</option>
+              <option value={item.name} key={item.id.toString()}>{item.name}</option>
               </>
             ) : null}
           })
